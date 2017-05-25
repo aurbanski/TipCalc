@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{46766A62-6425-4656-8EDD-E56C8BE866F6}|Default">
+  <MonoDevelop.Ide.ItemProperties.TipCalc.UI.ios PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1B2E03E5-7D0E-4628-A23B-A181C069008D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalc.UI.Droid/Views/TipView.cs">
+    <Files>
+      <File FileName="TipCalc.Core/App.cs" Line="14" Column="52" />
+      <File FileName="TipCalc.UI.Droid/Setup.cs" Line="16" Column="30" />
+      <File FileName="TipCalc.UI.Droid/Views/TipView.cs" Line="13" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TipCalc" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TipCalc.UI.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

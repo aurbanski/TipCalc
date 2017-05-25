@@ -1,0 +1,2 @@
+android.app.Application
+com.cgb.tipcalc_ui_droid

@@ -1,0 +1,11 @@
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/bin/Debug/TipCalc.Core.dll
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/bin/Debug/TipCalc.Core.pdb
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/bin/Debug/MvvmCross.Core.dll
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/bin/Debug/MvvmCross.Platform.pdb
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/bin/Debug/MvvmCross.Platform.dll.mdb
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/bin/Debug/MvvmCross.Core.pdb
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/obj/Debug/TipCalc.Core.csprojResolveAssemblyReference.cache
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/obj/Debug/TipCalc.Core.csproj.CoreCompileInputs.cache
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/obj/Debug/TipCalc.Core.dll
+/Users/alexurbanski/Projects/TipCalc/TipCalc.Core/obj/Debug/TipCalc.Core.pdb
